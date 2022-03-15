@@ -9,3 +9,5 @@
 - 📫 How to reach me: https://twitter.com/exterminus
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love riding bikes
+
+https://cmagnobarbosa.github.io/
