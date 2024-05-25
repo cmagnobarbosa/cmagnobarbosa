@@ -8,7 +8,7 @@
 - 💬 Me pergunte sobre analise de dados de redes sociais online, Python, pandas
 - 📫 Como me contatar: https://twitter.com/exterminus
 - 😄 he/him
-- 🚴 Sou apaixonado por andar de bike e pelo poder dos dados dados e conexões.
+- 🚴 Sou apaixonado por andar de bike e pelo poder dos dados e conexões.
 
 * Meu Website: https://carlosmagno.dev.br
 
